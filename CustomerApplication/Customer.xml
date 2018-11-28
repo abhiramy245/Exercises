@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<Customers>
+
+       <Customer> 
+          <CustomerID>ALFKI</CustomerID> 
+          <City>Berlin</City>
+          <ContactName>Maria Anders</ContactName>
+       </Customer>
+       <Customer> 
+          <CustomerID>BONAP</CustomerID> 
+          <City>Marseille</City>
+          <ContactName>Laurence Lebihan</ContactName>
+       </Customer>
+       <Customer> 
+          <CustomerID>CONSH</CustomerID> 
+          <City>Berlin</City>
+          <ContactName>Elizabeth Brown</ContactName>
+       </Customer>
+       <Customer> 
+          <CustomerID>EASTC</CustomerID> 
+          <City>London</City>
+          <ContactName>Ann Devon</ContactName>
+       </Customer>
+       <Customer> 
+          <CustomerID>FRANS</CustomerID> 
+          <City>Torino</City>
+          <ContactName>Paolo Accorti</ContactName>
+       </Customer>
+       <Customer> 
+          <CustomerID>LONEP</CustomerID> 
+          <City>Portland</City>
+          <ContactName>Fran Wilson</ContactName>
+       </Customer>
+       <Customer> 
+          <CustomerID>NORTS</CustomerID> 
+          <City>London</City>
+          <ContactName>Simon Crowther</ContactName>
+       </Customer>
+       <Customer>
+       <CustomerID>THEBI</CustomerID> 
+       <City>Portland</City>
+       <ContactName>Liz Nixon</ContactName>
+       </Customer>
+</Customers>

@@ -1,0 +1,14 @@
+D:\Exercises\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp2.1\CustomerApplication.deps.json
+D:\Exercises\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp2.1\CustomerApplication.runtimeconfig.json
+D:\Exercises\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp2.1\CustomerApplication.runtimeconfig.dev.json
+D:\Exercises\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp2.1\CustomerApplication.dll
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.csprojAssemblyReference.cache
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.csproj.CoreCompileInputs.cache
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.RazorAssemblyInfo.cache
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.RazorAssemblyInfo.cs
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.AssemblyInfoInputs.cache
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.AssemblyInfo.cs
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.RazorTargetAssemblyInfo.cache
+D:\Exercises\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp2.1\CustomerApplication.pdb
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.dll
+D:\Exercises\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp2.1\CustomerApplication.pdb

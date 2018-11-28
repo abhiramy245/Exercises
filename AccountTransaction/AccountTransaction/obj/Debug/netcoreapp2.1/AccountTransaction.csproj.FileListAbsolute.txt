@@ -1,0 +1,14 @@
+D:\Exercises\AccountTransaction\AccountTransaction\bin\Debug\netcoreapp2.1\AccountTransaction.deps.json
+D:\Exercises\AccountTransaction\AccountTransaction\bin\Debug\netcoreapp2.1\AccountTransaction.runtimeconfig.json
+D:\Exercises\AccountTransaction\AccountTransaction\bin\Debug\netcoreapp2.1\AccountTransaction.runtimeconfig.dev.json
+D:\Exercises\AccountTransaction\AccountTransaction\bin\Debug\netcoreapp2.1\AccountTransaction.dll
+D:\Exercises\AccountTransaction\AccountTransaction\bin\Debug\netcoreapp2.1\AccountTransaction.pdb
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.csprojAssemblyReference.cache
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.csproj.CoreCompileInputs.cache
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.RazorAssemblyInfo.cache
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.RazorAssemblyInfo.cs
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.AssemblyInfoInputs.cache
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.AssemblyInfo.cs
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.RazorTargetAssemblyInfo.cache
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.dll
+D:\Exercises\AccountTransaction\AccountTransaction\obj\Debug\netcoreapp2.1\AccountTransaction.pdb
